@@ -10,4 +10,5 @@ A los elementos de esta sucesión se les llama números de Fibonacci. Esta suces
 Véase en [Wikipedia](http://es.wikipedia.org/wiki/Sucesi%C3%B3n_de_Fibonacci)
 
 * Licencia
+
 ![CC BY 4.0](http://es.creativecommons.org/blog/wp-content/uploads/2013/04/by_petit.png)
